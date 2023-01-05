@@ -1,8 +1,9 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,linux,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,python
 
 ### Linux ###
 *~
+
+# images
+.png
 
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
